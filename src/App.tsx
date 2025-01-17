@@ -1,5 +1,5 @@
 import './App.css'
-import { decrement, increment, reset, resetTasbeehViaThunk } from './store/tasbeeh/tasbeeh.slice'
+import { decrement, increment, resetTasbeehViaThunk } from './store/tasbeeh/tasbeeh.slice'
 import { selectResetStatus, selectTasbeehCount } from './store/tasbeeh/tasbeeh.selector'
 import { useDispatch, useSelector } from 'react-redux';
 import { AppDispatch } from './store/store';
