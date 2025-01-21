@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1>Tasbeeh Counter {count}</h1>
+      <h1>Astaghfar Tasbeeh Counter {count}</h1>
       <div className="card">
         {/* USE STATE */}
         {/* <button onClick={() => setCount((count) => count + 1)}>

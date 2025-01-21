@@ -18,7 +18,7 @@ interface TasbeehState {
 
 // Define the initial state using that type
 const initialState: TasbeehState = {
-    count: 20,
+    count: 0,
     resetStatus: 'idle'
 }
 
